@@ -16,8 +16,10 @@ This tool uses [FreeGEOIP](https://freegeoip.net/) to get the countries for all 
 ## 2. Installation
 ## 3. Upgrading
 ## 4. config.ini
+
 |-------------|--------------|--------------|-----------|-------------|
 | **Config Value** | **Default Value(s)** | **Since** | **Notes**| **Required** |
+|----|----|-----|-----|------|
 ## 5. Examples
 ### 5.1 `POST_BAN_SCRIPTS` examples.
 
